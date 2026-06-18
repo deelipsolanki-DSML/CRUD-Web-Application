@@ -1,10 +1,5 @@
 # Python Web Database APP
 
-### A modern full-stack Python web application featuring complete CRUD operations, built with FastAPI, Streamlit, Pydantic validation, and an SQLite3 database. Includes user authentication and a multi-page interface.
-
-# Modern Full-Stack Python CRUD Application
-
-
 A lightweight, high-performance full-stack Python web application featuring complete CRUD operations, built with FastAPI, Streamlit, Pydantic validation, and an SQLite3 database. Includes user authentication and a multi-page interface.
 
 ---
